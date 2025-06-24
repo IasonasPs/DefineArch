@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DefineArch": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\RnD_MainCollection\\ATES\\ExamShield - IE\\ExamShield\\bin\\Debug\\x86\""
+    }
+  }
+}
